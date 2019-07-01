@@ -1,2 +1,2 @@
 Java 1.6
-Nginx x.y.z
+Nginx 1.8.2
